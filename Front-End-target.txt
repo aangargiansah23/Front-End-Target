@@ -1,0 +1,3 @@
+Front-End-Target
+-Konsisten mendalami Front End
+-mendalami javascript
