@@ -1,0 +1,4 @@
+rencana belajar front end
+Javascript lanjutan
+jquery
+react.js
